@@ -1,0 +1,2 @@
+learn python
+build a to do app
